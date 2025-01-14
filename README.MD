@@ -66,8 +66,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-    
+<p> 
     <p>&nbsp&nbsp&nbspMariana Soraggi<br>
     &nbsp&nbsp&nbsp
     <a 
