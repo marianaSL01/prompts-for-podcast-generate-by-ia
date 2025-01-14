@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/IA_star.jpg"
+    src="./assets/star_02.png"
     width="300"
 />
 </p>
